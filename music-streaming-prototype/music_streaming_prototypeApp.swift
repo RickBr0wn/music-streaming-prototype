@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct music_streaming_prototypeApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
+  var body: some Scene {
+    WindowGroup {
+      ContentView()
     }
+  }
 }

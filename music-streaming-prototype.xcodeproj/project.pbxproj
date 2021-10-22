@@ -11,6 +11,7 @@
 		11A673362722AEF300F8ADFF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A673352722AEF300F8ADFF /* ContentView.swift */; };
 		11A673382722AEF400F8ADFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11A673372722AEF400F8ADFF /* Assets.xcassets */; };
 		11A6733B2722AEF400F8ADFF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11A6733A2722AEF400F8ADFF /* Preview Assets.xcassets */; };
+		11A673422722B6DF00F8ADFF /* BlurEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A673412722B6DF00F8ADFF /* BlurEffect.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		11A673352722AEF300F8ADFF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		11A673372722AEF400F8ADFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11A6733A2722AEF400F8ADFF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		11A673412722B6DF00F8ADFF /* BlurEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurEffect.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				11A673332722AEF300F8ADFF /* music_streaming_prototypeApp.swift */,
 				11A673352722AEF300F8ADFF /* ContentView.swift */,
+				11A673412722B6DF00F8ADFF /* BlurEffect.swift */,
 				11A673372722AEF400F8ADFF /* Assets.xcassets */,
 				11A673392722AEF400F8ADFF /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11A673422722B6DF00F8ADFF /* BlurEffect.swift in Sources */,
 				11A673362722AEF300F8ADFF /* ContentView.swift in Sources */,
 				11A673342722AEF300F8ADFF /* music_streaming_prototypeApp.swift in Sources */,
 			);
